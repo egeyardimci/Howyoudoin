@@ -82,7 +82,7 @@ a
 The backend includes test coverage:
 
 ```bash
-`# Run tests
+# Run tests
 ./gradlew test
 ```
 
