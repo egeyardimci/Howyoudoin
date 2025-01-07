@@ -1,0 +1,6 @@
+[submodule "MessagesAPI"]
+	path = MessagesAPI
+	url = https://github.com/egeyardimci/MessagesAPI
+[submodule "MessagesMobile"]
+	path = MessagesMobile
+	url = https://github.com/egeyardimci/MessagesMobile
