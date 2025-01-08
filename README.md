@@ -83,7 +83,7 @@ The backend includes test coverage:
 
 ```bash
 # Run tests
-./gradlew test
+./gradlew test jacocoTestReport
 ```
 
 ## Security
